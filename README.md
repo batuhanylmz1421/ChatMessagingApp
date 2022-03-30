@@ -28,27 +28,27 @@ occur when a user sends a message to another user.
 
 ## Screenshots
 - Inside App:
-![](./Screenshots/fire1-480.png)
+![](./Screenshots/resized/app1.png)
 --------------------------------
-![](./Screenshots/app1-360.png)
+![](./Screenshots/resized/app2.png)
 --------------------------------
-![](./Screenshots/fire1-240.png)
+![](./Screenshots/resized/app2-1.png)
 --------------------------------
-![](./Screenshots/app2-2.png)
+![](./Screenshots/resized/app2-2.png)
 --------------------------------
-![](./Screenshots/app3.png)
+![](./Screenshots/resized/app3.png)
 --------------------------------
-![](./Screenshots/app5.png)
+![](./Screenshots/resized/app5.png)
 --------------------------------
-![](./Screenshots/app6.png)
+![](./Screenshots/resized/app6.png)
 --------------------------------
 
 - Firebase:
-![](./Screenshots/fire1.png)
+![](./Screenshots/resized/fire1.png)
 --------------------------------
-![](./Screenshots/fire2.png)
+![](./Screenshots/resized/fire2.png)
 --------------------------------
-![](./Screenshots/fire3.png)
+![](./Screenshots/resized/fire3.png)
 --------------------------------
 
 
