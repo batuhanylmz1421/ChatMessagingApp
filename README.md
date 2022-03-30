@@ -27,28 +27,30 @@ occur when a user sends a message to another user.
 - [Firebase] - **Web service**
 
 ## Screenshots
+
 - Inside App:
-![](./Screenshots/resized/app1.png)
+
+- ![](./Screenshots/resized/app1.png)
+- ![](./Screenshots/resized/app2.png)
 --------------------------------
-![](./Screenshots/resized/app2.png)
+- ![](./Screenshots/resized/app2-1.png)
 --------------------------------
-![](./Screenshots/resized/app2-1.png)
+- ![](./Screenshots/resized/app2-2.png)
 --------------------------------
-![](./Screenshots/resized/app2-2.png)
+- ![](./Screenshots/resized/app3.png)
 --------------------------------
-![](./Screenshots/resized/app3.png)
+- ![](./Screenshots/resized/app5.png)
 --------------------------------
-![](./Screenshots/resized/app5.png)
---------------------------------
-![](./Screenshots/resized/app6.png)
+- ![](./Screenshots/resized/app6.png)
 --------------------------------
 
 - Firebase:
-![](./Screenshots/resized/fire1.png)
+
+- ![](./Screenshots/resized/fire1.png)
 --------------------------------
-![](./Screenshots/resized/fire2.png)
+- ![](./Screenshots/resized/fire2.png)
 --------------------------------
-![](./Screenshots/resized/fire3.png)
+- ![](./Screenshots/resized/fire3.png)
 --------------------------------
 
 
