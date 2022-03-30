@@ -30,7 +30,8 @@ occur when a user sends a message to another user.
 
 > Inside App:
 
-- ![](./Screenshots/resized/app1.png)
+- 
+![](./Screenshots/resized/app1.png)
 --------------------------------
 - ![](./Screenshots/resized/app2.png)
 --------------------------------
