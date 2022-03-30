@@ -28,9 +28,10 @@ occur when a user sends a message to another user.
 
 ## Screenshots
 
-- Inside App:
+> Inside App:
 
 - ![](./Screenshots/resized/app1.png)
+--------------------------------
 - ![](./Screenshots/resized/app2.png)
 --------------------------------
 - ![](./Screenshots/resized/app2-1.png)
@@ -44,7 +45,7 @@ occur when a user sends a message to another user.
 - ![](./Screenshots/resized/app6.png)
 --------------------------------
 
-- Firebase:
+> Firebase:
 
 - ![](./Screenshots/resized/fire1.png)
 --------------------------------
