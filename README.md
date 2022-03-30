@@ -28,9 +28,9 @@ occur when a user sends a message to another user.
 
 ## Screenshots
 - Inside App:
-![](./Screenshots/app1.png)
+![](./Screenshots/fire1-480.png)
 --------------------------------
-![](./Screenshots/app2-1.png)
+![](./Screenshots/fire1-240.png)
 --------------------------------
 ![](./Screenshots/app2-2.png)
 --------------------------------
