@@ -29,7 +29,9 @@ occur when a user sends a message to another user.
 ## Screenshots
 - Inside App:
 ![](./Screenshots/app1.png)
+--------------------------------
 ![](./Screenshots/app2-1.png)
+--------------------------------
 ![](./Screenshots/app2-2.png)
 --------------------------------
 ![](./Screenshots/app3.png)
@@ -43,7 +45,9 @@ occur when a user sends a message to another user.
 ![](./Screenshots/fire1.png)
 --------------------------------
 ![](./Screenshots/fire2.png)
+--------------------------------
 ![](./Screenshots/fire3.png)
+--------------------------------
 
 
 [Kotlin]: <https://kotlinlang.org/>
