@@ -30,6 +30,8 @@ occur when a user sends a message to another user.
 - Inside App:
 ![](./Screenshots/fire1-480.png)
 --------------------------------
+![](./Screenshots/app1-360.png)
+--------------------------------
 ![](./Screenshots/fire1-240.png)
 --------------------------------
 ![](./Screenshots/app2-2.png)
