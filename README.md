@@ -19,8 +19,8 @@ occur when a user sends a message to another user.
 
 ## Team Members
 ```sh
-* Batuhan YILMAZ   - github.com/batuhanylmz1421
-* Enis Kaan KESKİN - github.com/enis1998
+* Batuhan YILMAZ   -> github.com/batuhanylmz1421
+* Enis Kaan KESKİN -> github.com/enis1998
 ```
 ## Tech
 - [Kotlin] - **The language**
