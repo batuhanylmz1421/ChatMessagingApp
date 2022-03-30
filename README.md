@@ -30,29 +30,29 @@ occur when a user sends a message to another user.
 
 > Inside App:
 
-- 
 ![](./Screenshots/resized/app1.png)
 --------------------------------
-- ![](./Screenshots/resized/app2.png)
+![](./Screenshots/resized/app2.png)
 --------------------------------
-- ![](./Screenshots/resized/app2-1.png)
+![](./Screenshots/resized/app2-1.png)
 --------------------------------
-- ![](./Screenshots/resized/app2-2.png)
+![](./Screenshots/resized/app2-2.png)
 --------------------------------
-- ![](./Screenshots/resized/app3.png)
+![](./Screenshots/resized/app3.png)
 --------------------------------
-- ![](./Screenshots/resized/app5.png)
+![](./Screenshots/resized/app5.png)
 --------------------------------
-- ![](./Screenshots/resized/app6.png)
+![](./Screenshots/resized/app6.png)
 --------------------------------
+<br/>
 
 > Firebase:
 
-- ![](./Screenshots/resized/fire1.png)
+![](./Screenshots/resized/fire1.png)
 --------------------------------
-- ![](./Screenshots/resized/fire2.png)
+![](./Screenshots/resized/fire2.png)
 --------------------------------
-- ![](./Screenshots/resized/fire3.png)
+![](./Screenshots/resized/fire3.png)
 --------------------------------
 
 
