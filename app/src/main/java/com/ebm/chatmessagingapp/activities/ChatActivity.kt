@@ -25,7 +25,6 @@ class ChatActivity : AppCompatActivity() {
     private lateinit var messageList: ArrayList<Message>
     private lateinit var mDbRef: DatabaseReference
 
-
     private var receiverRoom: String? = null
     private var senderRoom: String? = null
 
@@ -42,7 +41,7 @@ class ChatActivity : AppCompatActivity() {
         senderRoom = receiverUid + senderUid
         receiverRoom = senderUid + receiverUid
 
-//      Action Bar
+//      Action Bar - Batu
         val actionBar = supportActionBar
         actionBar!!.setDisplayShowHomeEnabled(true)
         actionBar.title = Html.fromHtml("<font color='#ffffff'>"+ name +"</font>");
