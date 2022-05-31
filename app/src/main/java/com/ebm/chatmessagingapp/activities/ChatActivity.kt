@@ -41,7 +41,7 @@ class ChatActivity : AppCompatActivity() {
         senderRoom = receiverUid + senderUid
         receiverRoom = senderUid + receiverUid
 
-//      Action Bar - Batu 41
+//      Action Bar - Batu 21
         val actionBar = supportActionBar
         actionBar!!.setDisplayShowHomeEnabled(true)
         actionBar.title = Html.fromHtml("<font color='#ffffff'>"+ name +"</font>");
